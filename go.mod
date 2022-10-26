@@ -1,4 +1,5 @@
-module applog
+module github.com/pleuvoir/applog
+
 
 go 1.19
 
